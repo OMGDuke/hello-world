@@ -1,2 +1,2 @@
 # hello-world
-Hello World!
+Makers Academy April 2016 Cohort
